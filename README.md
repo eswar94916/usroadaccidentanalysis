@@ -40,7 +40,7 @@ Step-1: Download the dataset from the Kaggle repository https://www.kaggle.com/d
 
 Step-2: If you are using the dataset from your local machine copy the path in the first cell at df = pd.read_csv("Paste the dataset path here").
 
-Step-3: If your using Colab make your dataset is uploaded in drive if need here is my drive link:
+Step-3: If your using Colab make your dataset is uploaded in drive if need here is my drive link: https://drive.google.com/file/d/1FxIF1rbYBqm9nGB_lE4uQLXSX_MKNDBK/view?usp=share_link
 
 Step-4: Run all the cells to get the output.
 
